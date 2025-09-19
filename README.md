@@ -1,6 +1,6 @@
 ```
 You're right. You're absolute right!
--- by Claude Code
+                           -- Claude
 ```
 
 ![Engineering Flowchart (TGT)](https://i.redd.it/pl2qwr76ujky.png)
